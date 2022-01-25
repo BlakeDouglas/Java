@@ -6,3 +6,5 @@ The output file should be overwritten if it already exists, and created if it do
 
 Create a separate class called Application that contains a main method which illustrates the use of DuplicateRemover by calling both the remove and write methods. 
 Your input file must be called problem1.txt and your output file must be called unique_words.txt. You will not receive credit if you use different file names.
+
+An EX problem1.txt file: "I I I hope hope that that you have have a great day day"
